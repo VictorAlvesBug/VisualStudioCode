@@ -1,0 +1,32 @@
+{
+    // Habilitar o zoom via scroll do mouse
+    "editor.mouseWheelZoom": true,
+
+    // Define linhas de referência 
+    // (é recomendado que as linhas de código não ultrapassem 80 caracteres)
+    "editor.rulers": [80, 100],
+
+    // Desabilitar minimap do scroll do editor
+    "editor.minimap.enabled": false,
+
+    // Auto-dividir linhas de código visualmente, evitando scrolls horizontais
+    "editor.wordWrap": "on",
+    
+    // Definir tamanho do tab
+    "editor.tabSize": 4,
+
+    // Formatar arquivos ao salvar
+    "editor.formatOnSave": true,
+
+    // Salvar arquivos do projeto automaticamente
+    "files.autoSave": "afterDelay",
+
+    // Importar dependências automaticamente via Tabnine 
+    "tabnine.experimentalAutoImports": true,
+
+    // Definir para utilizar ícones do material-icon-theme
+    "workbench.iconTheme": "material-icon-theme",
+    
+    // Definir tema do VSCode
+    "workbench.colorTheme": "Dracula Soft"
+}
